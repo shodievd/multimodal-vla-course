@@ -1,0 +1,18 @@
+{
+  "seed": 0,
+  "perturb": true,
+  "perturb_dx": 0.07,
+  "success": false,
+  "steps": 400,
+  "reward_sum": 0.0,
+  "max_reward": 0.0,
+  "model_calls": 4,
+  "inference_seconds": 0.03343975200186833,
+  "wall_seconds": 3.048090066000441,
+  "arm_variation": 0.0032367645657824396,
+  "gripper_variation": 0.009813317324135238,
+  "feedback_delay_steps": 80,
+  "setting": "K100",
+  "checkpoint": "ba73b2766f1371cdc133ca4efb97eb090d744625",
+  "implementation": "reconstructed-head-queue_1ca862af31"
+}
